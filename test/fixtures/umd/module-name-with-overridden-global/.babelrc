@@ -8,5 +8,6 @@
       "exactGlobals": true
     }]
   ],
+  "moduleId": "umd/module-name-with-overridden-global/expected",
   "moduleIds": true
 }

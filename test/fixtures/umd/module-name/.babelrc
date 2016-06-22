@@ -1,4 +1,5 @@
 {
   "extends": "../../.babelrc",
-  "moduleIds": true
+  "moduleIds": true,
+  "moduleId": "umd/module-name/expected"
 }
