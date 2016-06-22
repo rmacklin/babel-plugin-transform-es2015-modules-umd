@@ -1,0 +1,5 @@
+{
+  "extends": "../../.babelrc",
+  "moduleIds": true,
+  "moduleId": "my custom module name"
+}

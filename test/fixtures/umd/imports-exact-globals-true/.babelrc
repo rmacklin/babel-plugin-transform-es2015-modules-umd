@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "external-helpers",
+    ["../../../../lib", {
+      "exactGlobals": true
+    }]
+  ]
+}
