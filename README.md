@@ -1,3 +1,7 @@
+# Update: this fork is no longer necessary
+
+As of 6.12.0, babel-plugin-transform-es2015-modules-umd now includes the changes from this fork.
+
 # babel-plugin-transform-es2015-modules-umd
 
 ## Installation
